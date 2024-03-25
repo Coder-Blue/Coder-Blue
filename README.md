@@ -63,5 +63,5 @@ And this is some of the technologies, I'd like to use, and of course, for the pr
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - I might try to learn **docker** and **TypeScript** in the near future!
-It's just my personal favor guys, you guys should learn something new everday, my poor taste shouldn't affect you guys.
+It's just my personal favor guys, you guys should learn something new everyday, my poor taste shouldn't affect you guys.
 > Goodbye 👋
