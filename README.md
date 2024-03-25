@@ -14,7 +14,7 @@
 - **C++** - Started 2022 - I'm using cpp in some of the coding competitions.
 - **C#** - Started 2022 - Not very recommnend using it, but it was a good language.
 - **Java** - Started 2023 - Using it for my Minecraft server coding, not so my favor.
-<br />
+
 - **JavaScript** - Started 2023 - Daily use and production currently.
 - **Rust** - Started 2024 - Decent language, fast and safe, recommended.
 
