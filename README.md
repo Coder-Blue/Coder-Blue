@@ -18,7 +18,7 @@
 - **JavaScript** - Started 2023 - Daily use and production currently.
 - **Rust** - Started 2024 - Decent language, fast and safe, recommended.
 
-**This is just my coding journey, I'm still trying to adapt to some new stuffs these days**
+**This is just my coding journey, I'm still trying to adapt to some of the new stuffs these days**
 
 ## Current workflow tools:
 - **JavaScript - React and Svelte**
