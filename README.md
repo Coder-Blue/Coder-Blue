@@ -4,7 +4,7 @@
 💭 Currently learning about software engineering! <br />
 
 ## Contact:
-- Email: `trananhquan1009@gmail.com`!\
+- Email: `trananhquan1009@gmail.com`!
 - Facebook: `Noah Trần`
 - For faster reply, dms my Discord: `its_sh1ro`
 - Also visit my Google Developer page: https://g.dev/noah-tranns
@@ -28,6 +28,7 @@
 - **Python - OpenCV and Pandas**
 
 And this is some of the technologies, I'd like to use, and of course, for the preferences: <br />
+<br />
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,6 +55,7 @@ And this is some of the technologies, I'd like to use, and of course, for the pr
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## But these below are **actually** my daily techstack: <br />
+<br />
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
